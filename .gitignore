@@ -1,0 +1,17 @@
+# ملف .gitignore
+
+# البيئات الافتراضية (هام جداً!)
+.venv/
+myenv/
+venv/
+__pycache__/
+
+# ملفات البيانات الكبيرة (إذا كانت موجودة)
+*.csv
+*.pdf
+*.txt
+*.zip
+
+# مفاتيح API (HAM JIDDAN)
+.env
+*.key
